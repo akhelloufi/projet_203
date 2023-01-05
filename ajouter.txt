@@ -1,0 +1,1 @@
+OpenCV est une librairie développée dans le langage Python. Elle permet d'effectuer du traitement sur des images en temps réel. En plus des images, on peut également traiter des vidéos et utiliser des algorithmes d'apprentissage ou encore effectuer des calculs matriciels.
